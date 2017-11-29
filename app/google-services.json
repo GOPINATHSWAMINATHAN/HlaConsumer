@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "576124415233",
+    "firebase_url": "https://hlacab-5a5de.firebaseio.com",
+    "project_id": "hlacab-5a5de",
+    "storage_bucket": "hlacab-5a5de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576124415233:android:0548321ea4235837",
+        "android_client_info": {
+          "package_name": "com.hla.autocomplete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576124415233-ikaf6is0e09520b9ktvrah336sm6ksju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hla.autocomplete",
+            "certificate_hash": "f66d6edbc63e19ef11cfe1856ca6407f3c2f8db3"
+          }
+        },
+        {
+          "client_id": "576124415233-sdfhjv6ntilpgpho1mndmk22cv04kjmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQOfphZEFJhK9FpnWlQh8b8EinvdgIFXY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576124415233-sdfhjv6ntilpgpho1mndmk22cv04kjmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
